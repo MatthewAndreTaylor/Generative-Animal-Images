@@ -1,4 +1,4 @@
-# Generative Animals
+# Generative Animals Images
 
 https://github.com/user-attachments/assets/b013e85c-585c-43c5-8c96-34e3c42c4e32
 
